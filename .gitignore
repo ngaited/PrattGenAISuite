@@ -3,6 +3,9 @@
 config.yml
 *.key
 
+# Claude Code Documentation
+CLAUDE.md
+
 # Logs and Generated Content
 logs/
 debug/
