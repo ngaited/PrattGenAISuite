@@ -1,0 +1,17 @@
+# Example configuration file for PrattGenAISuite
+# Copy this file to .config.yml and fill in your actual API keys
+
+# Black Forest Labs API Key for Flux models
+BFL_API_KEY: your_black_forest_labs_api_key_here
+
+# Google API Key for Gemini image generation
+GOOGLE_API_KEY: your_google_api_key_here
+
+# Google API Key for Veo3 video generation (may be same as GOOGLE_API_KEY)
+GOOGLE_VEO3_KEY: your_google_veo3_api_key_here
+
+# OpenAI API Key for GPT Image generation
+OPENAI_API_KEY: your_openai_api_key_here
+
+# RunwayML API Key for video generation
+RUNWAY_API_KEY: your_runway_api_key_here
